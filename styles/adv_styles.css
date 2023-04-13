@@ -1,0 +1,37 @@
+.title-bar{
+    margin: 25px 35px;
+    color:#f28b82;
+    font-size: 20px;
+    border-bottom: 1px solid #dee2e6;
+}
+.adv-pg-title{
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+.exp-txt-1{
+    font-size: 12px;
+    color: #969ba1;
+}
+.exp-txt-2{
+    font-size: 12px;
+    font-family: monospace;
+}
+.advs-btn {
+    margin-left: auto;
+    margin-right: 15px;
+    background-color: #8ab4f8;
+    border-color: #8ab4f8;
+    color: #202124;
+    border: 1px solid #3079ed ;
+    border-radius: 2px;
+    text-align: center;
+    padding: 0 12px;
+    height: 30px;
+}
+.advs-btn:hover{
+    background: #aecbfa;
+}
+.advs-btn:active{
+    border-color: #2f5bb7;
+    background-color: #357ae8;
+}

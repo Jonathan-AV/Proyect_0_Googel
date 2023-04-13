@@ -1,0 +1,40 @@
+.nav-link:hover {
+    text-decoration: underline #000000 solid;
+}
+.input-icon {
+    width: 100%;
+    margin-bottom: 10px;
+    color: #dee2e6;
+}
+.input-icon i {
+    padding: 20px;
+    min-width: 50px;
+    text-align: center;
+}
+.q-input {
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
+.q-input:focus{
+    outline: none;
+
+}
+.q-bar{
+    border: 1px solid #dee2e6;
+    border-radius: 20px;
+}
+.q-bar:hover, .q-bar:focus-within{
+    background-color: #dee2e6 !important;
+}
+.search-btn {
+    color: #000000 !important;
+    background-color: #dee2e6 !important;
+}
+.search-btn:hover {
+    border: 1px solid #000000 !important;
+}
+.glogo {
+    width: 15%;
+    height: 25%;
+}
